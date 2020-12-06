@@ -15,6 +15,8 @@
 - Отнимает первую полученную дату и вторую, получаем разность дней, это и будет днем от 0 до 365.
 
 ## code
+```python
 date_NOW = datetime.date.today()
 date_START_YEAR = datetime.date(year = t.year, month = 1, day = 1)
 date_NOW365 = (date_NOW - date_START_YEAR).days # 348
+```
