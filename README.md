@@ -1,7 +1,13 @@
-<h4 align="center">Получение даты от 0 до 365</h4>
 <h1 align="center">
+  <br>
+  <a href="https://t.me/baccaraaa"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python"></a>
+  <br>
   Python
+  <br>
 </h1>
+
+<h4 align="center">Получение даты от 0 до 365</h4>
+
 
 ## math model
 - Получаем дату 1 января текущего года
